@@ -18,3 +18,4 @@ Route get digunakan untuk menampilkan tabel, post digunakan untuk mengisi form d
 put digunakan untuk melakukan update data, dan delete digunakan untuk menghapus data.
 
 Link local lan: http://192.168.1.4/web_framework/
+Hosting 000webhosting (fail): http://cerpenti20.000webhostapp.com/
