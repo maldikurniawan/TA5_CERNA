@@ -1,6 +1,9 @@
 # TA5_CERNA
 Cerpen Sederhana
 
+Nama: M. Aldi Kurniawan
+NPM: 2015061071
+
 Penjelasan umum
 Cerpen sederhana atau Cerna adalah suatu aplikasi yang dapat membantu klien dalam mengembangkan bakatnya dalam menulis cerita pendek. 
 Aplikasi ini juga dapat digunakan ketika waktu senggang agar lebih produktif.
