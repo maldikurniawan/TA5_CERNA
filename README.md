@@ -17,5 +17,7 @@ Aplikasi ini memiliki 4 metode http, diantaranta adalah get, put, post, dan dele
 Route get digunakan untuk menampilkan tabel, post digunakan untuk mengisi form dan mengirim ke database,
 put digunakan untuk melakukan update data, dan delete digunakan untuk menghapus data.
 
+NOTE: Source Code bisa dilihat di branch master.
+
 Link local lan: http://192.168.1.4/web_framework/
 Hosting 000webhosting (fail): http://cerpenti20.000webhostapp.com/
