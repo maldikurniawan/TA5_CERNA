@@ -24,3 +24,4 @@ NOTE: Source Code bisa dilihat di branch master.
 
 Link local lan: http://192.168.1.4/web_framework/
 Hosting 000webhosting (fail): http://cerpenti20.000webhostapp.com/
+Hosting 000webhosting (work): https://cerpenzako.000webhostapp.com/
